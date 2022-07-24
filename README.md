@@ -12,7 +12,7 @@
 _VK API, SQLAlchemy ORM, PostgeSQL, Git_<br>
 Чат-бот знакомств в ВК. Подбор людей по параметрам (текущие из профиля пользователя или заданные вручную), запись результатов поиска в БД. В чат отправляется имя, ссылка на страницу и ТОП-3 фотографий профиля (по количеству лайков и комментариев).
 
-* [Не благодарите или все персонажи Star Wars за 4,5 секунды](https://github.com/OksanaSha/asyncio_swapi.git)<br>
+* [Не благодарите, или все персонажи Star Wars за 4,5 секунды](https://github.com/OksanaSha/asyncio_swapi.git)<br>
 _Asyncio, AioHTTP, SQLAlchemy ORM, Docker Compose, PostgeSQL, Git_<br>
 Выгрузка данных с http://swapi.dev/api, обработка и подготовка JSON, асинхронная запись в БД.
 
