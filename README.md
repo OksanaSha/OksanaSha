@@ -20,8 +20,8 @@ _Asyncio, AioHTTP, SQLAlchemy ORM, Docker Compose, PostgeSQL, Git_<br>
 _Flask, Pydantic, SQLAlchemy ORM, Docker Compose, PostgeSQL, Git, GitHub Actions, CI_<br>
 REST API для сайта объявлений с системой прав доступа.
 
-* [Авито. Начало. Дубль 2](https://github.com/OksanaSha/django_first/tree/video/3.3-permissions/api_with_restrictions)<br>
-_Django REST framework, Django ORM, PostgeSQL, Git_<br>
+* [Авито. Начало. Дубль 2](https://github.com/OksanaSha/django_advertisements)<br>
+_Django REST framework, Django ORM, PostgeSQL, Docker Compose, Git_<br>
 API для сайта объявлений с системой прав доступа, валидацией, фильтрацией по статусу/дате и лимитом запросов.
 
 * [Как не запутаться в трех складах](https://github.com/OksanaSha/django_first/tree/video/3.2-crud/stocks_products)<br>
